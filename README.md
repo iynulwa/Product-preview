@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/iynulwa/Product-preview)
+- Live Site URL: [Add live site URL here](https://iynulwa.github.io/Product-preview/)
 
 ### Built with
 
@@ -57,5 +57,5 @@ Using min-width allowed the image to fill up the main div.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/iynulwa)
-- Twitter - [@yourusername](https://www.twitter.com/iynulwa)
+- Frontend Mentor - [@iynulwa](https://www.frontendmentor.io/profile/iynulwa)
+- Twitter - [@iynulwa](https://www.twitter.com/iynulwa)
