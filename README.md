@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/iynulwa/Product-preview)
-- Live Site URL: [Add live site URL here](https://iynulwa.github.io/Product-preview/)
+- Solution URL: [Github](https://github.com/iynulwa/Product-preview)
+- Live Site URL: [Live site](https://iynulwa.github.io/Product-preview/)
 
 ### Built with
 
